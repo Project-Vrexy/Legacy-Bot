@@ -1,0 +1,156 @@
+[   
+    {
+        "date": "20th of September",
+        "version": "1.6.6",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 `a!ocr` has been added. Now you can read text from your images, no need to be retyping it.",
+                    "\u2022 `a!translate` has been added as well. This allows you for text translation, when necessary."
+                ]
+            }
+        ]                        
+    },
+    {
+        "date": "18th of September",
+        "version": "1.6.5",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 `a!lock` and `a!unlock` were added. Use these commands when your channels become **TOO HOT**!",
+                    "\u2022 `a!kick` was also added. You heard us right, folks! You don't only ban people @here!"
+                ]
+            },
+            {
+                "title": "Improved",
+                "changes": [
+                    "\u2022 `a!ban`/`a!tempban` have got new embeds and they lost unnecessary wait time. Why, <@!348591272476540928>?"
+                ]
+            },
+            {
+                "title": "Fixed",
+                "changes": [
+                    "\u2022 The aforementioned commands also got a bug fix for equal role hierarchy and lost the `CANT BAN BOTS` thing. Why have that? lol"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14th of September",
+        "version": "1.6.4",
+        "changes": [
+            {
+                "title": "Improved",
+                "changes": [
+                    "\u2022 Help command now works a lot better. It also includes a home button now!"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12th of September",
+        "version": "1.6.3",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 Aeon Dashboard is now available for everyone to use.\nhttps://aeonbot.xyz"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "14th of August",
+        "version": "1.6.2",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 `a!minify` has been added to suit your minifying needs."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12th of August",
+        "version": "1.6.1",
+        "changes": [
+            {
+                "title": "Fixed",
+                "changes": [
+                    "\u2022 `a!play` now shows an error if there are no songs for the query.",
+                    "\u2022 `a!skip` now shows the skipped and now playing song correctly.",
+                    "\u2022 `a!volume` now shows an error if there is no song playing.",
+                    
+                    "\u2022 `a!queue` now shows an error if the queue is empty."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "12th of August",
+        "version": "1.6",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 Added a oldest user(s) command."
+                ]
+            },
+            {
+                "title": "Lunah did this",
+                "changes": [
+                    "\u2022 A crap ton of bug fixes",
+                    "\u2022 Making the bot work in threads",
+                    "\u2022 Providing hosting"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "7th of August",
+        "version": "1.6a2",
+        "changes": [
+            {
+                "title": "Fixed",
+                "changes": [
+                    "\u2022 Help no longer causes `This interaction failed` errors.",
+                    "\u2022 Help drop-down menu is now properly being removed on timeout instead of raising an error."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "6th of July",
+        "version": "1.6a1",
+        "changes": [
+            {
+                "title": "Fixed",
+                "changes": [
+                    "\u2022 Pages no longer act funky when two messages having pagination sessions."
+                ]
+            }
+        ]
+    },
+    {
+        "date": "30th of June",
+        "version": "1.6a",
+        "changes": [
+            {
+                "title": "Added",
+                "changes": [
+                    "\u2022 Music has been added to Aeon."
+                ]
+            },
+            {
+                "title": "But that is not all",
+                "changes": [
+                    "Development of Aeon has now been brought back from the dead",
+                    "and you should expect to see more epic features soon."
+                ]
+            }
+        ]
+    }
+]

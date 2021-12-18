@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is the best programming language?",
+    "category": "Computer Science",
+    "answers": {
+      "a": "JavaScript",
+      "b": "TypeScript",
+      "c": "Python",
+      "d": "Typescript"
+    },
+    "correct": "C",
+    "difficulty": "Easy"
+  },
+    {
+    "question": "What is the best programming language for a discord bot?",
+    "category": "Computer Science",
+    "answers": {
+      "a": "JavaScript",
+      "b": "TypeScript",
+      "c": "Python",
+      "d": "Typescript"
+    },
+    "correct": "C",
+    "difficulty": "Easy"
+  }
+]

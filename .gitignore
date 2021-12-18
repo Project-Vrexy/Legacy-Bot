@@ -1,0 +1,22 @@
+# Modules and settings
+.env
+.env.example
+/venv
+
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# User Stuff
+.idea/
+
+# Cache
+*/__pycache__
+*/__pycache__/*
+*.pyc
+
+# JSONs
+/data/json/stats.json
+
+# DB
+/data/db/*
